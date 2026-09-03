@@ -53,8 +53,8 @@
 ### 📊 &nbsp; github stats
 
 <p align="center">
-<img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Skyresist&show_icons=true&theme=onedark&include_all_commits=true&count_private=true&hide_border=true"/>
-<img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Skyresist&langs_count=12&layout=compact&theme=onedark&include_all_commits=true&count_private=true&hide_border=true" />
+<img height="180em" src="https://github-stats-extended.vercel.app/api?username=Skyresist&show_icons=true&theme=onedark&include_all_commits=true&count_private=true&hide_border=true"/>
+<img height="180em" src="https://github-stats-extended.vercel.app/api/top-langs/?username=Skyresist&langs_count=12&layout=compact&theme=onedark&include_all_commits=true&count_private=true&hide_border=true" />
 </p>
 
 </div>
@@ -71,3 +71,4 @@
 </p>
 
 </div>
+
