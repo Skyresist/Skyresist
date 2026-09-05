@@ -15,7 +15,7 @@
 
 <div align="center">
 
-### 👋 &nbsp; about me
+### 👋 &nbsp;about me
 
 **A Computer Engineering student with a passion and deep interest in anything related to Data, AI, ML, Prob/Stat, etc.**
 
@@ -25,7 +25,7 @@
 
 <div align="center">
 
-### 🛠️ &nbsp; main skills
+### 🛠️ &nbsp;main skills
 
 <p align="center">
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
@@ -50,7 +50,7 @@
 
 <div align="center">
 
-### 📊 &nbsp; github stats
+### 📊 &nbsp;github stats
 
 <p align="center">
 <img height="180em" src="https://github-stats-extended.vercel.app/api?username=Skyresist&show_icons=true&theme=onedark&include_all_commits=true&count_private=true&hide_border=true"/>
@@ -63,7 +63,7 @@
 
 <div align="center">
 
-### 📬 &nbsp; how to reach me
+### 📬 &nbsp;how to reach me
 
 <p align="center">
 <a href="https://linkedin.com/in/clayvent-yuuki-william-754145216/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;
